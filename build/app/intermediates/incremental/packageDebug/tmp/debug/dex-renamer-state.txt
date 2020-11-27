@@ -1,0 +1,4 @@
+#Mon Nov 23 19:28:23 BRST 2020
+base.0=C\:\\temp\\Bucks_tcc-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
